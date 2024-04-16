@@ -1,8 +1,5 @@
 
 ## End To End ML Project Diamond - Price - Prediction
-=======
-## End To End ML Project
-
 
 # created a enviroment
 ```
@@ -13,7 +10,6 @@ conda activate venv/
 # Install all the necessary libraries
 ```
 pip install -r requirements.txt
-<<<<<<< HEAD
 ```
 
 # About The Project
@@ -42,6 +38,5 @@ There are 10 independent variables (including id):
 # Target variable:
 ```
 price: Price of the given Diamond.
-=======
 
 ```
