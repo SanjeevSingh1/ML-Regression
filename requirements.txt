@@ -1,13 +1,8 @@
-<<<<<<< HEAD
+
 numpy
 pandas
 Flask
 scikit-learn
 seaborn
-=======
-pandas
-numpy
-Flask
 
->>>>>>> ab87cbd3257ce8f0a238ad149b1c95c3cde3ee86
 -e .
